@@ -18,6 +18,6 @@ For the interface, we used QTDesigner to create and design the Graphical User In
 ## Input and Outputs📷
 The program processes snapshots captured by the camera. During the analysis phase, it calculates the width and height of the object based on the masked object's pixel dimensions and its distance from the camera.
 
-<div align="center"> <img src="https://github.com/thoriqpb/Leaf-Meter/blob/main/images/GUI_display.jpg" alt="GUI Display" width="600"> </div>
+<div align="center"> <img src="https://github.com/thoriqpb/Leaf-Meter/blob/main/images/GUI example.jpg" alt="GUI Display" width="600"> </div>
 
 Users can save all image outputs and leaf dimension data simply by clicking the `save` button.
